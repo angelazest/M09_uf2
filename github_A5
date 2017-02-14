@@ -1,0 +1,15 @@
+
+import java.util.Scanner;
+/**
+* Classe que mostra la frase 'Hola que ta'
+*
+* @ autor angela
+* @ versio  2017
+*/
+public class Intro{
+    public static void main(String[] args){
+    
+      System.out.println("Hola que tal");   
+    }
+    }
+
