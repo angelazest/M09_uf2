@@ -13,6 +13,9 @@ public class Main {
        
         saldoActual = miCuenta.estado();
         System.out.println("El saldo actual es "+ saldoActual );
+   
+        //Modificació
+        System.out.println("Introducció de text");
+    
     }
-
 }
